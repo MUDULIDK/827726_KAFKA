@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "javaType": "com.company.examples.types.total_Sales",
+  "properties": {
+    "custID": {"type": "string"},
+    "txnAmount": {"type": "number"},
+    "totalSaleAmount": {"type": "number"}
+  }
+}

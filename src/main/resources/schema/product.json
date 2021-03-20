@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "javaType": "com.company.examples.types.txn",
+  "properties": {
+    "txnID": {"type": "string"},
+    "txnDate": {"type": "string"},
+    "custID": {"type": "string"},
+    "txnAmount": {"type": "number"},
+    "prodCat": {"type": "string"},
+    "product": {"type": "string"},
+    "city": {"type": "string"},
+    "state": {"type": "string"},
+    "paymentMode": {"type": "string"}
+  }
+}
